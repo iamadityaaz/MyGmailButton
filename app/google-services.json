@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053786409822",
+    "firebase_url": "https://my-complain.firebaseio.com",
+    "project_id": "my-complain",
+    "storage_bucket": "my-complain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053786409822:android:9d76c98598e85616",
+        "android_client_info": {
+          "package_name": "college.com.mycomplain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053786409822-s1pu7vo8fkeo785lmnjstf28klrtri0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "college.com.mycomplain",
+            "certificate_hash": "7eace0de49617e95acb943828f7bfa6c7d0dd9c1"
+          }
+        },
+        {
+          "client_id": "1053786409822-35i3h3psbvmtul45lk811tgq45fq0564.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lBHP3IEX-YUc7gdFsRJ68xEwdnNmhNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053786409822-35i3h3psbvmtul45lk811tgq45fq0564.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
